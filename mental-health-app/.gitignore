@@ -1,0 +1,51 @@
+# ---- Python / FastAPI (/backend, /ml) ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+*.sqlite3
+.pytest_cache/
+.mypy_cache/
+instance/
+
+# ---- Flutter / Dart (/app) ----
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.packages
+app/build/
+app/ios/Pods/
+app/ios/.symlinks/
+app/android/.gradle/
+app/android/local.properties
+app/*.iml
+app/pubspec.lock
+
+# ---- Node / React (/dashboard) ----
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.env
+dashboard/npm-debug.log*
+
+# ---- ML artifacts ----
+ml/*.ckpt
+ml/*.pt
+ml/*.h5
+ml/wandb/
+ml/mlruns/
+ml/data/raw/
+
+# ---- Audio/uploads (never commit user data) ----
+backend/uploads/
+backend/*.wav
+backend/*.mp3
+
+# ---- OS / Editor ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

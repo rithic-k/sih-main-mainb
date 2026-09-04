@@ -1,0 +1,1257 @@
+{
+  "users": [
+    {
+      "id": "user-moonlight27",
+      "createdAt": "2026-09-04T04:22:35.447Z",
+      "updatedAt": "2026-09-04T04:22:35.448Z",
+      "accountType": "individual",
+      "displayName": "Moonlight27",
+      "email": "moonlight27@example.com",
+      "phone": "+91 9876543210",
+      "countryCode": "+91",
+      "ageGroup": "18-24",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)",
+      "location": "Bengaluru, India",
+      "joinedDate": "2026-07-06"
+    },
+    {
+      "id": "user-A",
+      "createdAt": "2026-09-04T04:22:35.461Z",
+      "updatedAt": "2026-09-04T04:22:35.461Z",
+      "accountType": "individual",
+      "displayName": "User A (#A721)",
+      "email": "user-A@seera.test",
+      "phone": "+91 9123456780",
+      "ageGroup": "18-24",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)"
+    },
+    {
+      "id": "user-B",
+      "createdAt": "2026-09-04T04:22:35.462Z",
+      "updatedAt": "2026-09-04T04:22:35.462Z",
+      "accountType": "individual",
+      "displayName": "User B (#B304)",
+      "email": "user-B@seera.test",
+      "phone": "+91 9123456780",
+      "ageGroup": "25-34",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)"
+    },
+    {
+      "id": "user-C",
+      "createdAt": "2026-09-04T04:22:35.464Z",
+      "updatedAt": "2026-09-04T04:22:35.464Z",
+      "accountType": "individual",
+      "displayName": "User C (#C119)",
+      "email": "user-C@seera.test",
+      "phone": "+91 9123456780",
+      "ageGroup": "18-24",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)"
+    },
+    {
+      "id": "user-D",
+      "createdAt": "2026-09-04T04:22:35.465Z",
+      "updatedAt": "2026-09-04T04:22:35.465Z",
+      "accountType": "individual",
+      "displayName": "User D (#D901)",
+      "email": "user-D@seera.test",
+      "phone": "+91 9123456780",
+      "ageGroup": "25-34",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)"
+    },
+    {
+      "id": "user-E",
+      "createdAt": "2026-09-04T04:22:35.469Z",
+      "updatedAt": "2026-09-04T04:22:35.469Z",
+      "accountType": "young_user",
+      "displayName": "User E (#E442)",
+      "email": "user-E@seera.test",
+      "phone": "+91 9123456780",
+      "ageGroup": "Young User (15-17)",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)"
+    },
+    {
+      "id": "user-F",
+      "createdAt": "2026-09-04T04:22:35.471Z",
+      "updatedAt": "2026-09-04T04:22:35.471Z",
+      "accountType": "individual",
+      "displayName": "User F (#F312)",
+      "email": "user-F@seera.test",
+      "phone": "+91 9123456780",
+      "ageGroup": "18-24",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)"
+    },
+    {
+      "id": "user-G",
+      "createdAt": "2026-09-04T04:22:35.473Z",
+      "updatedAt": "2026-09-04T04:22:35.473Z",
+      "accountType": "individual",
+      "displayName": "User G (#G774)",
+      "email": "user-G@seera.test",
+      "phone": "+91 9123456780",
+      "ageGroup": "25-34",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)"
+    },
+    {
+      "id": "user-H",
+      "createdAt": "2026-09-04T04:22:35.474Z",
+      "updatedAt": "2026-09-04T04:22:35.474Z",
+      "accountType": "individual",
+      "displayName": "User H (#H60D)",
+      "email": "user-H@seera.test",
+      "phone": "+91 9123456780",
+      "ageGroup": "18-24",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)"
+    },
+    {
+      "id": "user-I",
+      "createdAt": "2026-09-04T04:22:35.477Z",
+      "updatedAt": "2026-09-04T04:22:35.477Z",
+      "accountType": "individual",
+      "displayName": "User I (#I521)",
+      "email": "user-I@seera.test",
+      "phone": "+91 9123456780",
+      "ageGroup": "18-24",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)"
+    },
+    {
+      "id": "user-J",
+      "createdAt": "2026-09-04T04:22:35.479Z",
+      "updatedAt": "2026-09-04T04:22:35.479Z",
+      "accountType": "individual",
+      "displayName": "User J (#J102)",
+      "email": "user-J@seera.test",
+      "phone": "+91 9123456780",
+      "ageGroup": "18-24",
+      "language": "English",
+      "timezone": "Asia/Kolkata (IST)"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "prof-moonlight27",
+      "createdAt": "2026-09-04T04:22:35.449Z",
+      "updatedAt": "2026-09-04T04:22:35.449Z",
+      "userId": "user-moonlight27",
+      "avatarSeed": "sage-sprout",
+      "streakDays": 14,
+      "points": 420
+    }
+  ],
+  "goals": [
+    {
+      "id": "goal-verilog-fsm",
+      "createdAt": "2026-09-04T04:22:35.451Z",
+      "updatedAt": "2026-09-04T04:22:35.451Z",
+      "userId": "user-moonlight27",
+      "title": "Learn Verilog FSM Design",
+      "category": "career",
+      "categoryLabel": "Career & VLSI",
+      "deadline": "2026-09-30",
+      "frequency": "3 sessions / week",
+      "status": "active",
+      "color": "emerald",
+      "notes": "Mastering Finite State Machines for digital circuit design and upcoming tech interviews."
+    }
+  ],
+  "goal_milestones": [
+    {
+      "id": "m1",
+      "createdAt": "2026-09-04T04:22:35.452Z",
+      "updatedAt": "2026-09-04T04:22:35.452Z",
+      "goalId": "goal-verilog-fsm",
+      "title": "Understand FSM basics & state transition diagrams",
+      "completed": true,
+      "completedAt": "2026-08-10"
+    },
+    {
+      "id": "m2",
+      "createdAt": "2026-09-04T04:22:35.453Z",
+      "updatedAt": "2026-09-04T04:22:35.453Z",
+      "goalId": "goal-verilog-fsm",
+      "title": "Implement Mealy FSM in Verilog",
+      "completed": true,
+      "completedAt": "2026-08-18"
+    },
+    {
+      "id": "m3",
+      "createdAt": "2026-09-04T04:22:35.454Z",
+      "updatedAt": "2026-09-04T04:22:35.454Z",
+      "goalId": "goal-verilog-fsm",
+      "title": "Implement Moore FSM in Verilog",
+      "completed": true,
+      "completedAt": "2026-08-25"
+    },
+    {
+      "id": "m4",
+      "createdAt": "2026-09-04T04:22:35.456Z",
+      "updatedAt": "2026-09-04T04:22:35.456Z",
+      "goalId": "goal-verilog-fsm",
+      "title": "Build sequence detector with testbench simulation",
+      "completed": false,
+      "completedAt": null
+    },
+    {
+      "id": "m5",
+      "createdAt": "2026-09-04T04:22:35.456Z",
+      "updatedAt": "2026-09-04T04:22:35.456Z",
+      "goalId": "goal-verilog-fsm",
+      "title": "Complete mini project: Traffic Light Controller",
+      "completed": false,
+      "completedAt": null
+    }
+  ],
+  "interests": [],
+  "preferences": [
+    {
+      "id": "pref-moonlight27",
+      "createdAt": "2026-09-04T04:22:35.449Z",
+      "updatedAt": "2026-09-04T04:22:35.449Z",
+      "userId": "user-moonlight27",
+      "interests": [
+        "technology",
+        "art",
+        "music",
+        "reading",
+        "games"
+      ],
+      "goals": [
+        "career",
+        "emotional_wellbeing",
+        "hobbies"
+      ],
+      "primaryGoal": "career",
+      "preferredActivities": [
+        "Learning",
+        "Creative activities",
+        "Games",
+        "Reflection"
+      ],
+      "activityStyle": "Short and easy",
+      "dailyTime": "30 min",
+      "preferredTime": "Evening",
+      "isOnboardingCompleted": true
+    }
+  ],
+  "game_sessions": [],
+  "game_reflections": [],
+  "journal_entries": [
+    {
+      "id": "entry-1",
+      "createdAt": "2026-09-04T04:22:35.457Z",
+      "updatedAt": "2026-09-04T04:22:35.457Z",
+      "userId": "user-moonlight27",
+      "title": "Designing the FSM and finding evening stillness",
+      "date": "2026-09-03",
+      "time": "21:40",
+      "mode": "text",
+      "content": "Today I got the Mealy state machine simulation to produce clean waveform transitions without glitches. It felt very satisfying to see the testbench pass. Afterwards, I went for a 15-minute walk outside instead of scrolling. The cool breeze helped reset my thoughts before night.",
+      "tags": [
+        "Learning",
+        "Engineering",
+        "Stillness"
+      ],
+      "sentimentPattern": "focused_constructive",
+      "promptUsed": "What brought a sense of small progress or quiet accomplishment to your day?"
+    },
+    {
+      "id": "entry-2",
+      "createdAt": "2026-09-04T04:22:35.460Z",
+      "updatedAt": "2026-09-04T04:22:35.460Z",
+      "userId": "user-moonlight27",
+      "title": "Voice Note: Letting go of perfectionism in sketching",
+      "date": "2026-09-01",
+      "time": "20:15",
+      "mode": "voice",
+      "content": "I started drawing the ficus leaves on my desk. At first, I felt annoyed because the proportions were slightly off, but then I remembered that nature isn't symmetrical. Spending 20 minutes without checking my phone was deeply refreshing.",
+      "tags": [
+        "Art",
+        "Creative",
+        "Mindfulness"
+      ],
+      "audioDuration": "01:42",
+      "sentimentPattern": "reflective_creative",
+      "promptUsed": "How did your creative activity feel today?"
+    }
+  ],
+  "voice_transcripts": [],
+  "hobby_posts": [
+    {
+      "id": "post-1",
+      "createdAt": "2026-09-04T04:22:35.481Z",
+      "updatedAt": "2026-09-04T04:22:35.481Z",
+      "author": "CedarBreeze",
+      "authorAvatar": "tree-pine",
+      "timeAgo": "2 hours ago",
+      "category": "art",
+      "title": "Botanical ink study: Monsoon ferns",
+      "description": "Took a break from circuit design this evening to sketch the small ferns growing outside my balcony. Used a 0.3mm fineliner and watered-down gouache.",
+      "imageUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80",
+      "likesCount": 24,
+      "commentsCount": 2,
+      "saved": false,
+      "liked": false
+    },
+    {
+      "id": "post-2",
+      "createdAt": "2026-09-04T04:22:35.481Z",
+      "updatedAt": "2026-09-04T04:22:35.481Z",
+      "author": "EchoStrings",
+      "authorAvatar": "guitar",
+      "timeAgo": "4 hours ago",
+      "category": "music",
+      "title": "Acoustic Fingerpicking Loop in D-Major",
+      "description": "Spent 15 minutes improvising a peaceful chord progression on the nylon guitar. Just keeping the rhythm gentle and uncluttered.",
+      "audioNote": "Acoustic Loop (0:45)",
+      "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80",
+      "likesCount": 38,
+      "commentsCount": 3,
+      "saved": true,
+      "liked": true
+    }
+  ],
+  "hobby_interactions": [],
+  "screen_time_logs": [],
+  "routine_activities": [],
+  "wellbeing_signals": [],
+  "personal_baselines": [
+    {
+      "id": "base-user-A",
+      "createdAt": "2026-09-04T04:22:35.461Z",
+      "updatedAt": "2026-09-04T04:22:35.461Z",
+      "userId": "user-A",
+      "archetype": "stable",
+      "status": "stable",
+      "statusLabel": "Stable",
+      "statusTag": "Consistent baseline",
+      "primaryGoal": "Daily Habits & Self-discovery",
+      "interests": [
+        "Art",
+        "Nature",
+        "Mind Games"
+      ],
+      "deviationSummary": "Active adherence to personal daily plan and regular evening reflections.",
+      "indicators": {
+        "goalEngagement": {
+          "score": 88,
+          "baseline": 85,
+          "change": "+3%",
+          "trend": "up"
+        },
+        "hobbyEngagement": {
+          "score": 82,
+          "baseline": 80,
+          "change": "+2%",
+          "trend": "up"
+        },
+        "reflectionTrend": {
+          "score": 90,
+          "baseline": 88,
+          "change": "+2%",
+          "trend": "up"
+        },
+        "journalFrequency": {
+          "score": 85,
+          "baseline": 82,
+          "change": "+3%",
+          "trend": "up"
+        },
+        "lateNightActivity": {
+          "score": 15,
+          "baseline": 18,
+          "change": "-3%",
+          "trend": "good"
+        },
+        "activityConsistency": {
+          "score": 92,
+          "baseline": 90,
+          "change": "+2%",
+          "trend": "up"
+        }
+      },
+      "weeklyHistory": [
+        {
+          "week": "W1",
+          "baseline": 85,
+          "currentEngagement": 87,
+          "lateNightHours": 0.3
+        },
+        {
+          "week": "W2",
+          "baseline": 85,
+          "currentEngagement": 85,
+          "lateNightHours": 0.4
+        },
+        {
+          "week": "W3",
+          "baseline": 85,
+          "currentEngagement": 98,
+          "lateNightHours": 1.2
+        },
+        {
+          "week": "W4",
+          "baseline": 85,
+          "currentEngagement": 88,
+          "lateNightHours": 0.4
+        }
+      ],
+      "permittedInfo": {
+        "shareWellbeingTrend": true,
+        "shareGoals": true,
+        "shareHobbyStats": true,
+        "shareRawJournals": false,
+        "shareVoiceRecordings": false,
+        "emergencyContactLinked": false
+      },
+      "isReviewed": true,
+      "scheduledSession": null
+    },
+    {
+      "id": "base-user-B",
+      "createdAt": "2026-09-04T04:22:35.463Z",
+      "updatedAt": "2026-09-04T04:22:35.463Z",
+      "userId": "user-B",
+      "archetype": "improving",
+      "status": "improving",
+      "statusLabel": "Improving",
+      "statusTag": "Positive momentum",
+      "primaryGoal": "Career & Work-life Balance",
+      "interests": [
+        "Music",
+        "Fitness",
+        "Cooking"
+      ],
+      "deviationSummary": "Positive recovery in physical movement goals and consistent evening unwind routines.",
+      "indicators": {
+        "goalEngagement": {
+          "score": 80,
+          "baseline": 65,
+          "change": "+15%",
+          "trend": "up"
+        },
+        "hobbyEngagement": {
+          "score": 75,
+          "baseline": 60,
+          "change": "+15%",
+          "trend": "up"
+        },
+        "reflectionTrend": {
+          "score": 82,
+          "baseline": 70,
+          "change": "+12%",
+          "trend": "up"
+        },
+        "journalFrequency": {
+          "score": 78,
+          "baseline": 60,
+          "change": "+18%",
+          "trend": "up"
+        },
+        "lateNightActivity": {
+          "score": 20,
+          "baseline": 35,
+          "change": "-15%",
+          "trend": "good"
+        },
+        "activityConsistency": {
+          "score": 85,
+          "baseline": 70,
+          "change": "+15%",
+          "trend": "up"
+        }
+      },
+      "weeklyHistory": [
+        {
+          "week": "W1",
+          "baseline": 65,
+          "currentEngagement": 67,
+          "lateNightHours": 0.3
+        },
+        {
+          "week": "W2",
+          "baseline": 65,
+          "currentEngagement": 65,
+          "lateNightHours": 0.4
+        },
+        {
+          "week": "W3",
+          "baseline": 65,
+          "currentEngagement": 92,
+          "lateNightHours": 1.2
+        },
+        {
+          "week": "W4",
+          "baseline": 65,
+          "currentEngagement": 82,
+          "lateNightHours": 0.4
+        }
+      ],
+      "permittedInfo": {
+        "shareWellbeingTrend": true,
+        "shareGoals": true,
+        "shareHobbyStats": true,
+        "shareRawJournals": false,
+        "shareVoiceRecordings": false,
+        "emergencyContactLinked": false
+      },
+      "isReviewed": false,
+      "scheduledSession": null
+    },
+    {
+      "id": "base-user-C",
+      "createdAt": "2026-09-04T04:22:35.465Z",
+      "updatedAt": "2026-09-04T04:22:35.465Z",
+      "userId": "user-C",
+      "archetype": "gradual_disengagement",
+      "status": "change_detected",
+      "statusLabel": "Change detected",
+      "statusTag": "Recent pattern shift",
+      "primaryGoal": "Academics & Engineering",
+      "interests": [
+        "Technology",
+        "Games",
+        "Reading"
+      ],
+      "deviationSummary": "Moderate drop in daytime study sessions accompanied by delayed nighttime puzzle logins.",
+      "indicators": {
+        "goalEngagement": {
+          "score": 55,
+          "baseline": 80,
+          "change": "-25%",
+          "trend": "down"
+        },
+        "hobbyEngagement": {
+          "score": 40,
+          "baseline": 70,
+          "change": "-30%",
+          "trend": "down"
+        },
+        "reflectionTrend": {
+          "score": 60,
+          "baseline": 78,
+          "change": "-18%",
+          "trend": "down"
+        },
+        "journalFrequency": {
+          "score": 45,
+          "baseline": 75,
+          "change": "-30%",
+          "trend": "down"
+        },
+        "lateNightActivity": {
+          "score": 58,
+          "baseline": 22,
+          "change": "+36%",
+          "trend": "up_alert"
+        },
+        "activityConsistency": {
+          "score": 52,
+          "baseline": 82,
+          "change": "-30%",
+          "trend": "down"
+        }
+      },
+      "weeklyHistory": [
+        {
+          "week": "W1",
+          "baseline": 80,
+          "currentEngagement": 82,
+          "lateNightHours": 0.3
+        },
+        {
+          "week": "W2",
+          "baseline": 80,
+          "currentEngagement": 80,
+          "lateNightHours": 0.4
+        },
+        {
+          "week": "W3",
+          "baseline": 80,
+          "currentEngagement": 68,
+          "lateNightHours": 1.2
+        },
+        {
+          "week": "W4",
+          "baseline": 80,
+          "currentEngagement": 58,
+          "lateNightHours": 4.1
+        }
+      ],
+      "permittedInfo": {
+        "shareWellbeingTrend": true,
+        "shareGoals": true,
+        "shareHobbyStats": true,
+        "shareRawJournals": false,
+        "shareVoiceRecordings": false,
+        "emergencyContactLinked": false
+      },
+      "isReviewed": false,
+      "scheduledSession": null
+    },
+    {
+      "id": "base-user-D",
+      "createdAt": "2026-09-04T04:22:35.467Z",
+      "updatedAt": "2026-09-04T04:22:35.467Z",
+      "userId": "user-D",
+      "archetype": "sustained_change",
+      "status": "review_recommended",
+      "statusLabel": "Human review recommended",
+      "statusTag": "Sustained change noticed",
+      "primaryGoal": "Emotional Wellbeing & Career",
+      "interests": [
+        "Writing",
+        "Nature",
+        "Reading"
+      ],
+      "deviationSummary": "Sustained deviation from personal baseline detected over 10 consecutive days across study, hobbies, and nighttime activity.",
+      "indicators": {
+        "goalEngagement": {
+          "score": 32,
+          "baseline": 85,
+          "change": "-53%",
+          "trend": "down"
+        },
+        "hobbyEngagement": {
+          "score": 15,
+          "baseline": 70,
+          "change": "-55%",
+          "trend": "down"
+        },
+        "reflectionTrend": {
+          "score": 40,
+          "baseline": 78,
+          "change": "-38%",
+          "trend": "down"
+        },
+        "journalFrequency": {
+          "score": 20,
+          "baseline": 80,
+          "change": "-60%",
+          "trend": "down"
+        },
+        "lateNightActivity": {
+          "score": 84,
+          "baseline": 25,
+          "change": "+59%",
+          "trend": "up_alert"
+        },
+        "activityConsistency": {
+          "score": 38,
+          "baseline": 88,
+          "change": "-50%",
+          "trend": "down"
+        }
+      },
+      "weeklyHistory": [
+        {
+          "week": "W1",
+          "baseline": 85,
+          "currentEngagement": 87,
+          "lateNightHours": 0.3
+        },
+        {
+          "week": "W2",
+          "baseline": 85,
+          "currentEngagement": 85,
+          "lateNightHours": 0.4
+        },
+        {
+          "week": "W3",
+          "baseline": 85,
+          "currentEngagement": 42,
+          "lateNightHours": 1.2
+        },
+        {
+          "week": "W4",
+          "baseline": 85,
+          "currentEngagement": 32,
+          "lateNightHours": 4.1
+        }
+      ],
+      "permittedInfo": {
+        "shareWellbeingTrend": true,
+        "shareGoals": true,
+        "shareHobbyStats": true,
+        "shareRawJournals": false,
+        "shareVoiceRecordings": false,
+        "emergencyContactLinked": true
+      },
+      "isReviewed": false,
+      "scheduledSession": "2026-09-06 15:00"
+    },
+    {
+      "id": "base-user-E",
+      "createdAt": "2026-09-04T04:22:35.470Z",
+      "updatedAt": "2026-09-04T04:22:35.470Z",
+      "userId": "user-E",
+      "archetype": "young_user_family",
+      "status": "change_detected",
+      "statusLabel": "Change detected",
+      "statusTag": "Academic exam pressure",
+      "primaryGoal": "High School Lab Prep & Art",
+      "interests": [
+        "Art",
+        "Photography",
+        "Gaming"
+      ],
+      "deviationSummary": "Family-linked account: Noticeable compression in hobby hours coinciding with pre-board exams.",
+      "indicators": {
+        "goalEngagement": {
+          "score": 50,
+          "baseline": 72,
+          "change": "-22%",
+          "trend": "down"
+        },
+        "hobbyEngagement": {
+          "score": 35,
+          "baseline": 68,
+          "change": "-33%",
+          "trend": "down"
+        },
+        "reflectionTrend": {
+          "score": 55,
+          "baseline": 70,
+          "change": "-15%",
+          "trend": "down"
+        },
+        "journalFrequency": {
+          "score": 40,
+          "baseline": 65,
+          "change": "-25%",
+          "trend": "down"
+        },
+        "lateNightActivity": {
+          "score": 62,
+          "baseline": 20,
+          "change": "+42%",
+          "trend": "up_alert"
+        },
+        "activityConsistency": {
+          "score": 52,
+          "baseline": 76,
+          "change": "-24%",
+          "trend": "down"
+        }
+      },
+      "weeklyHistory": [
+        {
+          "week": "W1",
+          "baseline": 72,
+          "currentEngagement": 74,
+          "lateNightHours": 0.3
+        },
+        {
+          "week": "W2",
+          "baseline": 72,
+          "currentEngagement": 72,
+          "lateNightHours": 0.4
+        },
+        {
+          "week": "W3",
+          "baseline": 72,
+          "currentEngagement": 64,
+          "lateNightHours": 1.2
+        },
+        {
+          "week": "W4",
+          "baseline": 72,
+          "currentEngagement": 54,
+          "lateNightHours": 4.1
+        }
+      ],
+      "permittedInfo": {
+        "shareWellbeingTrend": true,
+        "shareGoals": true,
+        "shareHobbyStats": true,
+        "shareRawJournals": false,
+        "shareVoiceRecordings": false,
+        "emergencyContactLinked": false
+      },
+      "isReviewed": false,
+      "scheduledSession": null
+    },
+    {
+      "id": "base-user-F",
+      "createdAt": "2026-09-04T04:22:35.472Z",
+      "updatedAt": "2026-09-04T04:22:35.472Z",
+      "userId": "user-F",
+      "archetype": "high_hobby",
+      "status": "stable",
+      "statusLabel": "Stable",
+      "statusTag": "Active creative balance",
+      "primaryGoal": "Botanical Illustration & Music",
+      "interests": [
+        "Art",
+        "Music",
+        "Crafts"
+      ],
+      "deviationSummary": "Regular weekend watercolor submissions and daily fingerpicking practice.",
+      "indicators": {
+        "goalEngagement": {
+          "score": 85,
+          "baseline": 80,
+          "change": "+5%",
+          "trend": "up"
+        },
+        "hobbyEngagement": {
+          "score": 94,
+          "baseline": 88,
+          "change": "+6%",
+          "trend": "up"
+        },
+        "reflectionTrend": {
+          "score": 86,
+          "baseline": 84,
+          "change": "+2%",
+          "trend": "up"
+        },
+        "journalFrequency": {
+          "score": 80,
+          "baseline": 78,
+          "change": "+2%",
+          "trend": "up"
+        },
+        "lateNightActivity": {
+          "score": 12,
+          "baseline": 15,
+          "change": "-3%",
+          "trend": "good"
+        },
+        "activityConsistency": {
+          "score": 89,
+          "baseline": 85,
+          "change": "+4%",
+          "trend": "up"
+        }
+      },
+      "weeklyHistory": [
+        {
+          "week": "W1",
+          "baseline": 82,
+          "currentEngagement": 84,
+          "lateNightHours": 0.3
+        },
+        {
+          "week": "W2",
+          "baseline": 82,
+          "currentEngagement": 82,
+          "lateNightHours": 0.4
+        },
+        {
+          "week": "W3",
+          "baseline": 82,
+          "currentEngagement": 98,
+          "lateNightHours": 1.2
+        },
+        {
+          "week": "W4",
+          "baseline": 82,
+          "currentEngagement": 88,
+          "lateNightHours": 0.4
+        }
+      ],
+      "permittedInfo": {
+        "shareWellbeingTrend": true,
+        "shareGoals": true,
+        "shareHobbyStats": true,
+        "shareRawJournals": false,
+        "shareVoiceRecordings": false,
+        "emergencyContactLinked": false
+      },
+      "isReviewed": true,
+      "scheduledSession": null
+    },
+    {
+      "id": "base-user-G",
+      "createdAt": "2026-09-04T04:22:35.473Z",
+      "updatedAt": "2026-09-04T04:22:35.473Z",
+      "userId": "user-G",
+      "archetype": "career_focused",
+      "status": "stable",
+      "statusLabel": "Stable",
+      "statusTag": "Steady milestones",
+      "primaryGoal": "Digital Systems & VLSI",
+      "interests": [
+        "Technology",
+        "Science",
+        "Writing"
+      ],
+      "deviationSummary": "Consistent flashcard mastery and technical project progress.",
+      "indicators": {
+        "goalEngagement": {
+          "score": 92,
+          "baseline": 88,
+          "change": "+4%",
+          "trend": "up"
+        },
+        "hobbyEngagement": {
+          "score": 72,
+          "baseline": 70,
+          "change": "+2%",
+          "trend": "up"
+        },
+        "reflectionTrend": {
+          "score": 84,
+          "baseline": 82,
+          "change": "+2%",
+          "trend": "up"
+        },
+        "journalFrequency": {
+          "score": 76,
+          "baseline": 75,
+          "change": "+1%",
+          "trend": "up"
+        },
+        "lateNightActivity": {
+          "score": 18,
+          "baseline": 20,
+          "change": "-2%",
+          "trend": "good"
+        },
+        "activityConsistency": {
+          "score": 91,
+          "baseline": 88,
+          "change": "+3%",
+          "trend": "up"
+        }
+      },
+      "weeklyHistory": [
+        {
+          "week": "W1",
+          "baseline": 86,
+          "currentEngagement": 88,
+          "lateNightHours": 0.3
+        },
+        {
+          "week": "W2",
+          "baseline": 86,
+          "currentEngagement": 86,
+          "lateNightHours": 0.4
+        },
+        {
+          "week": "W3",
+          "baseline": 86,
+          "currentEngagement": 99,
+          "lateNightHours": 1.2
+        },
+        {
+          "week": "W4",
+          "baseline": 86,
+          "currentEngagement": 89,
+          "lateNightHours": 0.4
+        }
+      ],
+      "permittedInfo": {
+        "shareWellbeingTrend": true,
+        "shareGoals": true,
+        "shareHobbyStats": true,
+        "shareRawJournals": false,
+        "shareVoiceRecordings": false,
+        "emergencyContactLinked": false
+      },
+      "isReviewed": true,
+      "scheduledSession": null
+    },
+    {
+      "id": "base-user-H",
+      "createdAt": "2026-09-04T04:22:35.476Z",
+      "updatedAt": "2026-09-04T04:22:35.476Z",
+      "userId": "user-H",
+      "archetype": "day60_success",
+      "status": "stable",
+      "statusLabel": "Stable",
+      "statusTag": "60-Day milestone complete",
+      "primaryGoal": "Holistic Growth & VLSI Design",
+      "interests": [
+        "Technology",
+        "Art",
+        "Fitness"
+      ],
+      "deviationSummary": "Completed full 60-day cycle with 52 active days and 7 goal milestones reached.",
+      "indicators": {
+        "goalEngagement": {
+          "score": 95,
+          "baseline": 88,
+          "change": "+7%",
+          "trend": "up"
+        },
+        "hobbyEngagement": {
+          "score": 88,
+          "baseline": 80,
+          "change": "+8%",
+          "trend": "up"
+        },
+        "reflectionTrend": {
+          "score": 92,
+          "baseline": 86,
+          "change": "+6%",
+          "trend": "up"
+        },
+        "journalFrequency": {
+          "score": 88,
+          "baseline": 82,
+          "change": "+6%",
+          "trend": "up"
+        },
+        "lateNightActivity": {
+          "score": 10,
+          "baseline": 16,
+          "change": "-6%",
+          "trend": "good"
+        },
+        "activityConsistency": {
+          "score": 96,
+          "baseline": 90,
+          "change": "+6%",
+          "trend": "up"
+        }
+      },
+      "weeklyHistory": [
+        {
+          "week": "W1",
+          "baseline": 88,
+          "currentEngagement": 90,
+          "lateNightHours": 0.3
+        },
+        {
+          "week": "W2",
+          "baseline": 88,
+          "currentEngagement": 88,
+          "lateNightHours": 0.4
+        },
+        {
+          "week": "W3",
+          "baseline": 88,
+          "currentEngagement": 104,
+          "lateNightHours": 1.2
+        },
+        {
+          "week": "W4",
+          "baseline": 88,
+          "currentEngagement": 94,
+          "lateNightHours": 0.4
+        }
+      ],
+      "permittedInfo": {
+        "shareWellbeingTrend": true,
+        "shareGoals": true,
+        "shareHobbyStats": true,
+        "shareRawJournals": false,
+        "shareVoiceRecordings": false,
+        "emergencyContactLinked": false
+      },
+      "isReviewed": true,
+      "scheduledSession": null
+    },
+    {
+      "id": "base-user-I",
+      "createdAt": "2026-09-04T04:22:35.478Z",
+      "updatedAt": "2026-09-04T04:22:35.478Z",
+      "userId": "user-I",
+      "archetype": "inconsistent",
+      "status": "change_detected",
+      "statusLabel": "Change detected",
+      "statusTag": "Fluctuating routines",
+      "primaryGoal": "Fitness & Academics",
+      "interests": [
+        "Fitness",
+        "Gaming",
+        "Music"
+      ],
+      "deviationSummary": "High activity on alternating weekends followed by multiday gaps in weekday reflections.",
+      "indicators": {
+        "goalEngagement": {
+          "score": 52,
+          "baseline": 68,
+          "change": "-16%",
+          "trend": "down"
+        },
+        "hobbyEngagement": {
+          "score": 48,
+          "baseline": 62,
+          "change": "-14%",
+          "trend": "down"
+        },
+        "reflectionTrend": {
+          "score": 55,
+          "baseline": 65,
+          "change": "-10%",
+          "trend": "down"
+        },
+        "journalFrequency": {
+          "score": 42,
+          "baseline": 60,
+          "change": "-18%",
+          "trend": "down"
+        },
+        "lateNightActivity": {
+          "score": 48,
+          "baseline": 30,
+          "change": "+18%",
+          "trend": "neutral"
+        },
+        "activityConsistency": {
+          "score": 46,
+          "baseline": 70,
+          "change": "-24%",
+          "trend": "down"
+        }
+      },
+      "weeklyHistory": [
+        {
+          "week": "W1",
+          "baseline": 68,
+          "currentEngagement": 70,
+          "lateNightHours": 0.3
+        },
+        {
+          "week": "W2",
+          "baseline": 68,
+          "currentEngagement": 68,
+          "lateNightHours": 0.4
+        },
+        {
+          "week": "W3",
+          "baseline": 68,
+          "currentEngagement": 60,
+          "lateNightHours": 1.2
+        },
+        {
+          "week": "W4",
+          "baseline": 68,
+          "currentEngagement": 50,
+          "lateNightHours": 0.4
+        }
+      ],
+      "permittedInfo": {
+        "shareWellbeingTrend": true,
+        "shareGoals": true,
+        "shareHobbyStats": true,
+        "shareRawJournals": false,
+        "shareVoiceRecordings": false,
+        "emergencyContactLinked": false
+      },
+      "isReviewed": false,
+      "scheduledSession": null
+    },
+    {
+      "id": "base-user-J",
+      "createdAt": "2026-09-04T04:22:35.480Z",
+      "updatedAt": "2026-09-04T04:22:35.480Z",
+      "userId": "user-J",
+      "archetype": "new_establishing",
+      "status": "stable",
+      "statusLabel": "Establishing Baseline",
+      "statusTag": "Initial 7-day window",
+      "primaryGoal": "Creative Writing & Coding",
+      "interests": [
+        "Writing",
+        "Technology",
+        "Reading"
+      ],
+      "deviationSummary": "Recently joined. Establishing personal baseline across initial 7 days (zero false alerts).",
+      "indicators": {
+        "goalEngagement": {
+          "score": 72,
+          "baseline": 70,
+          "change": "0%",
+          "trend": "stable"
+        },
+        "hobbyEngagement": {
+          "score": 70,
+          "baseline": 70,
+          "change": "0%",
+          "trend": "stable"
+        },
+        "reflectionTrend": {
+          "score": 75,
+          "baseline": 70,
+          "change": "0%",
+          "trend": "stable"
+        },
+        "journalFrequency": {
+          "score": 68,
+          "baseline": 70,
+          "change": "0%",
+          "trend": "stable"
+        },
+        "lateNightActivity": {
+          "score": 15,
+          "baseline": 15,
+          "change": "0%",
+          "trend": "good"
+        },
+        "activityConsistency": {
+          "score": 74,
+          "baseline": 70,
+          "change": "0%",
+          "trend": "stable"
+        }
+      },
+      "weeklyHistory": [
+        {
+          "week": "W1",
+          "baseline": 70,
+          "currentEngagement": 72,
+          "lateNightHours": 0.3
+        },
+        {
+          "week": "W2",
+          "baseline": 70,
+          "currentEngagement": 70,
+          "lateNightHours": 0.4
+        },
+        {
+          "week": "W3",
+          "baseline": 70,
+          "currentEngagement": 82,
+          "lateNightHours": 1.2
+        },
+        {
+          "week": "W4",
+          "baseline": 70,
+          "currentEngagement": 72,
+          "lateNightHours": 0.4
+        }
+      ],
+      "permittedInfo": {
+        "shareWellbeingTrend": true,
+        "shareGoals": true,
+        "shareHobbyStats": true,
+        "shareRawJournals": false,
+        "shareVoiceRecordings": false,
+        "emergencyContactLinked": false
+      },
+      "isReviewed": true,
+      "scheduledSession": null
+    }
+  ],
+  "change_events": [],
+  "counsellor_notes": [],
+  "support_sessions": [],
+  "family_relationships": [],
+  "consent_settings": [
+    {
+      "id": "consent-moonlight27",
+      "createdAt": "2026-09-04T04:22:35.450Z",
+      "updatedAt": "2026-09-04T04:22:35.451Z",
+      "userId": "user-moonlight27",
+      "wellbeingAnalysis": true,
+      "counsellorSupport": true,
+      "voiceJournaling": true,
+      "locationPermission": false,
+      "familyVisibility": false,
+      "lastConsentDate": "2026-07-06"
+    }
+  ],
+  "flashcard_progress": []
+}
